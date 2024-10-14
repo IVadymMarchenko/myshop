@@ -1,5 +1,9 @@
 .vscode
 .idea
 
-db.sqlite
+db.sqlite3
 media/
+
+venv/
+.pylintrc
+__pycash__/
